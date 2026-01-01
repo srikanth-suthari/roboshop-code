@@ -11,5 +11,7 @@ RoboShop Code and Dependencies
 7. MySQL
 8. Redis
 9. RabbitMQ
-10.Dispatch
-11.Frontend
+10. Dispatch
+11. Frontend
+
+These are the 11 services which we are going to deploy across multiple environments using docker and kubernetes.
