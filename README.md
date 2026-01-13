@@ -14,4 +14,7 @@ RoboShop Code and Dependencies
 10. Dispatch
 11. Frontend
 
+
+All these have been containerized with docker.
+
 These are the 11 services which we are going to deploy across multiple environments using docker and kubernetes.
