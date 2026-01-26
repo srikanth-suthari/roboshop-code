@@ -20,3 +20,5 @@ All these have been containerized with docker.
 These are the 11 services which we are going to deploy across multiple environments using docker and kubernetes.
 
 Here we are using mysql, rabbitmq, mongodb and redis from their official docker images.
+
+In this project we learn about the robosho project and how the api's work
